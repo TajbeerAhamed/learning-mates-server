@@ -7,14 +7,7 @@
       
       "description": "Introduction to HTML Structures in Website Development.Get to grips with HTML with this free online HTML tutorial where you will be introduced to the many structures included in HTML and some industry best practices as well. Along with HTML basics, you will learn all about the methods used to develop HTML forms on a website and integrate animations into the forms, web styling principles and techniques as well as the importance of media queries and how they can be added to an HTML form."
     },
-    {
-     
-        "id": "02",
-        "heading": "Css",
-        "img": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3NzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        
-        "description": "Welcome to Learn CSS! This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the learn css logo to navigate the modules."
-      },
+    
       {
      
         "id": "03",
