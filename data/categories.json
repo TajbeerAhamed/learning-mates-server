@@ -7,7 +7,10 @@
       "id": "02",
       "name": "Css"
     },
-   
+    {
+      "id": "03",
+      "name": "JavaScript"
+    },
     {
       "id": "04",
       "name": "ReactJS"
