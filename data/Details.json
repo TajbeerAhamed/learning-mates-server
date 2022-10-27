@@ -1,7 +1,7 @@
 [
     {
      
-      "id": "01",
+      "id": "1",
       "heading": "Html",
       "img": "https://images.unsplash.com/photo-1610360655260-decd32e267aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGh0bWx8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       
@@ -9,7 +9,7 @@
     },
     {
      
-      "id": "02",
+      "id": "2",
       "heading": "Css",
       "img": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3NzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       
@@ -17,7 +17,7 @@
     },
       {
      
-        "id": "03",
+        "id": "3",
         "heading": "JavaScript",
         "img": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8amF2YXNjcmlwdHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
         
@@ -25,7 +25,7 @@
       },
       {
      
-        "id": "04",
+        "id": "4",
         "heading": "ReactJS",
         "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhY3R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         
@@ -33,7 +33,7 @@
       },
       {
      
-        "id": "05",
+        "id": "5",
         "heading": "ExpressJS",
         "img": "https://images.unsplash.com/photo-1592609930961-219235eded71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8anN8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         
@@ -41,7 +41,7 @@
       },
       {
      
-        "id": "06",
+        "id": "6",
         "heading": "MongoDB",
         "img": "https://images.unsplash.com/photo-1658204238967-3a81a063d162?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bW9uZ29kYnxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
         
